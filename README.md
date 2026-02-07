@@ -3,7 +3,6 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-2.0%2B-green)](https://flask.palletsprojects.com/)
 [![React](https://img.shields.io/badge/react-18%2B-61dafb)](https://reactjs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An advanced machine learning system that predicts petrol prices using AutoML technology. This project combines automated data collection, neural network modeling, and an interactive dashboard to provide accurate forecasts of petrol prices.
 
